@@ -16,8 +16,7 @@ console.log(imc);
 
 if (imc < 18.5) {
     console.log('abaixo do peso');
-} 
-else if (imc >= 18.5 && imc <= 25) {
+} else if (imc >= 18.5 && imc <= 25) {
     console.log('Peso Normal');
 } else if (imc >= 25 && imc <= 30) {
     console.log('Acima do Peso');
